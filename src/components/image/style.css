@@ -1,0 +1,8 @@
+.image {
+  height: 250px;
+  background-color: #858d94;
+  color: rgb(212, 200, 200);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

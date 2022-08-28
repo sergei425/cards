@@ -1,0 +1,20 @@
+.card {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.card__wrap {
+  padding: 5px 20px;
+  border: 2px solid #858d94;
+}
+
+.card__wrap button {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  border: 0;
+  background-color: #8e53ee;
+  color: #fff;
+}
